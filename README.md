@@ -5,7 +5,7 @@
 🤗 <a href="https://huggingface.co/datasets/DAMO-NLP-SG/MultiJail" target="_blank" style="margin-left: 10px">Dataset</a> 
 </p>
 
-This repo contains the data for our paper ["Multilingual Jailbreak Challenges in Large Language Models"](https://arxiv.org/abs/2310.06474).
+This repo contains the data for our paper ["Multilingual Jailbreak Challenges in Large Language Models"](https://arxiv.org/abs/2310.06474) in ICLR 2024.
 
 ## Annotation Statistics
 We collected a total of 315 English unsafe prompts and annotated them into nine non-English languages. The languages were categorized based on resource availability, as shown below:
