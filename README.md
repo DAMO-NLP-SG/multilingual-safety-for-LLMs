@@ -1,11 +1,11 @@
 # Multilingual Jailbreak Challenges in Large Language Models
 
 <p align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center">
-📄 <a href="https://arxiv.org/abs/2310.06474" target="_blank" style="margin-right: 15px; margin-left: 10px">Paper</a> • 
+📄 <a href="https://openreview.net/forum?id=vESNKdEMGp&" target="_blank" style="margin-right: 15px; margin-left: 10px">Paper</a> • 
 🤗 <a href="https://huggingface.co/datasets/DAMO-NLP-SG/MultiJail" target="_blank" style="margin-left: 10px">Dataset</a> 
 </p>
 
-This repo contains the data for our paper ["Multilingual Jailbreak Challenges in Large Language Models"](https://arxiv.org/abs/2310.06474) in ICLR 2024.
+This repo contains the data for our paper ["Multilingual Jailbreak Challenges in Large Language Models"](https://openreview.net/forum?id=vESNKdEMGp&) in ICLR 2024.
 
 ## Annotation Statistics
 We collected a total of 315 English unsafe prompts and annotated them into nine non-English languages. The languages were categorized based on resource availability, as shown below:
@@ -47,12 +47,12 @@ Our research investigates the safety challenges of LLMs in multilingual settings
 
 ## Citation
 ```
-@misc{deng2023multilingual,
-      title={Multilingual Jailbreak Challenges in Large Language Models}, 
+@inproceedings{
+      deng2024multilingual,
+      title={Multilingual Jailbreak Challenges in Large Language Models},
       author={Yue Deng and Wenxuan Zhang and Sinno Jialin Pan and Lidong Bing},
-      year={2023},
-      eprint={2310.06474},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      booktitle={The Twelfth International Conference on Learning Representations},
+      year={2024},
+      url={https://openreview.net/forum?id=vESNKdEMGp}
 }
 ```
